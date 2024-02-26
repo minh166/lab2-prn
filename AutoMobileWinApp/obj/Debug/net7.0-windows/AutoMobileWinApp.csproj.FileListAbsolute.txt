@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\AutomobileSolution\AutoMobileWinApp\obj\Debug\net7.0-windows\AutoMobileWinApp.fmrCarManagement.resources
+C:\Users\admin\source\repos\AutomobileSolution\AutoMobileWinApp\obj\Debug\net7.0-windows\AutoMobileWinApp.frmCarDetails.resources
+C:\Users\admin\source\repos\AutomobileSolution\AutoMobileWinApp\obj\Debug\net7.0-windows\AutoMobileWinApp.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\AutomobileSolution\AutoMobileWinApp\obj\Debug\net7.0-windows\AutoMobileWinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\AutomobileSolution\AutoMobileWinApp\obj\Debug\net7.0-windows\AutoMobileWinApp.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\AutomobileSolution\AutoMobileWinApp\obj\Debug\net7.0-windows\AutoMobileWinApp.AssemblyInfo.cs
+C:\Users\admin\source\repos\AutomobileSolution\AutoMobileWinApp\obj\Debug\net7.0-windows\AutoMobileWinApp.csproj.CoreCompileInputs.cache
